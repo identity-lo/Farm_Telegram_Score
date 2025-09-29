@@ -6,7 +6,7 @@ import pyperclip
 
 TIMEOUT = 20
 WINDOWSLEEP = 5
-WINDOWTITLE = "مهد کودک"
+WINDOWTITLE = "مهد کودک" # esm gapeton
 MESSAGE = [
     "مرگ بر آمریکا" , "مرگ بر اسرائیل", "مرگ بر شاه" , "یا حسین",
     
